@@ -4,3 +4,6 @@
 
 2. https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 	Walks through different steps that are involved to get started with git
+
+3. http://marklodato.github.io/visual-git-guide/index-en.html
+	Visual Git Reference
